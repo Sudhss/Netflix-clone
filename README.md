@@ -1,7 +1,7 @@
 # Netflix Clone
 
 A beautiful, responsive Netflix clone built with **HTML and CSS only**. This project recreates the Netflix homepage with modern design principles and smooth animations.
-The sole purpose of making it was revising HTML CSS when i started out with Web Dev
+The sole purpose of making it was revising HTML CSS when i started out with web dev.
 
 ## Features
 
