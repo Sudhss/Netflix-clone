@@ -20,7 +20,7 @@ The sole purpose of making it was revising HTML CSS when i started out with web 
 2. **Open** `index.html` in your web browser
 3. **Enjoy** your Netflix clone!
 
-No build process, no dependencies, no setup required - just pure HTML and CSS!
+No build process, no dependencies, no setup required - just pure HTML and CSS
 
 ## Project Structure
 
